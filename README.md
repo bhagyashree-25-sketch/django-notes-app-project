@@ -5,6 +5,33 @@ Author
 Bhagyashree
 GitHub: bhagyashree-25-sketch
 
+Access the deployed application directly via your AWS EC2 Public DNS and Kubernetes NodePort:
+ http://ec2-13-200-252-55.ap-south-1.compute.amazonaws.com:30627
+
+ Application Output / Working UI
+ 📓 My Notes
+
+Note #5
+Does the time not update or something? tests
+📅 6/2/2026
+
+Note #4
+Looks like everything is working so far This is a test update ok ev...
+📅 1/20/2023
+
+Note #3
+This a new note now REACT is integrated with Django!
+📅 1/20/2023
+
+Note #2
+This is a new note XD
+📅 1/20/2023
+
+Note #1
+
+One - Two - Three
+📅 1/20/2023
+
 Architecture
 GitHub → Jenkins pipeline → Docker Image → DockerHub → Kubernetes Cluster
 
