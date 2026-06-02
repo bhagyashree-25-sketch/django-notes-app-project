@@ -1,15 +1,15 @@
-Django Simple Notes App CI/CD Pipeline Automation
+# Django Simple Notes App CI/CD Pipeline Automation
 This is a simple notes app built with React and Django.
 
-Requirements
+# Requirements
 Python 3.9
 Node.js
 React
 
-Architecture & Workflow
+# Architecture & Workflow
 CI/CD Architecture Diagram
 
-The CI/CD Flow:
+# The CI/CD Flow:
 
 Developer Push: Code is committed and pushed to the Git repository (GitHub).
 Webhook Trigger: A Git webhook triggers the Jenkins pipeline automatically.
