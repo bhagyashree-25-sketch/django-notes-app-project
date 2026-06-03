@@ -29,8 +29,10 @@ One - Two - Three
 # Installation
 Clone the repository
 git clone https://github.com/adhya2020/django-notes-app.git
+
 Build the app
 docker build -t my-note-app .
+
 Run the app
 docker run -p 8000:8000 my-note-app
 
