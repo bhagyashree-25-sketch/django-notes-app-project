@@ -72,22 +72,22 @@ Uses Kubernetes credentials configured in Jenkins.
 
 # Prerequisites
 Jenkins running with the following plugins:
-Docker Pipeline Plugin
-Kubernetes CLI Plugin
-Git Plugin
-Credentials Binding Plugin
-Docker installed on the Jenkins agent
-kubectl installed on the Jenkins agent
-Kubernetes cluster up and running
-DockerHub account with a repository created
+1. Docker Pipeline Plugin
+2. Kubernetes CLI Plugin
+3. Git Plugin
+4. Credentials Binding Plugin
+5. Docker installed on the Jenkins agent
+6. kubectl installed on the Jenkins agent
+7. Kubernetes cluster up and running
+8. DockerHub account with a repository created
 
 # Jenkins Credentials Setup
 Before running the pipeline, configure the following credentials in Jenkins:
-Credential ID
-Type
-Description
-dockerHub	Username & Password	DockerHub login credentials
-kuberenetes	Kubernetes Config	Kubeconfig for cluster access
+1. Credential ID
+2. Type
+3. Description
+4. dockerHub	Username & Password	DockerHub login credentials
+5. kuberenetes	Kubernetes Config	Kubeconfig for cluster access
 
 # Steps to add credentials:
 
