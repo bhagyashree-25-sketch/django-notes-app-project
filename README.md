@@ -1,10 +1,6 @@
 # Django Simple Notes App - CI/CD Pipeline Automation
 A full-stack notes application built with React (frontend) and Django (backend), automated with a complete CI/CD pipeline from code push to Kubernetes deployment.
 
-# Author
-Bhagyashree
-GitHub: bhagyashree-25-sketch
-
 # Access the deployed application via AWS EC2 Public DNS and Kubernetes NodePort:
  http://ec2-13-200-252-55.ap-south-1.compute.amazonaws.com:30627
 
